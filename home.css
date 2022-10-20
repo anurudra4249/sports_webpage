@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    /* position: fixed; */
+    margin: 0;
+        padding: 0;
+        border: 0;
+    top: 0;
+    right: 0;
+    left:0;
+    bottom:0;
+    background-color: rgb(254, 104, 67);
+}
+
+h1 {
+    color: blue;
+    text-align: center;
+    size: 8rem;
+    font-size: 60pt;
+}
+
+
+
+
+h2 {
+    color: rgb(4, 243, 24);
+
+}
+p{
+    font: bold;
+    
+}
